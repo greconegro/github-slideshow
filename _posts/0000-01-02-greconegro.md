@@ -2,5 +2,5 @@
  diseño : título de la diapositiva
  : "¡ Bienvenido a nuestra segunda diapositiva! "
 ---
-Su texto ¡ 
+Su textos ¡ 
 Use la flecha izquierda para regresar!
